@@ -1,0 +1,40 @@
+body,html {
+  background: url(https://thumbs.dreamstime.com/b/half-opened-laptop-colorful-screen-pitch-black-background-space-text-half-opened-laptop-colorful-151068151.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+ color: rgba(255, 255, 255, 0.945);
+  font-size: 3rem;
+
+}
+.btn{
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform:uppercase;
+}
+.btn-xl{
+  padding: 1rem,2rem;
+}
+.btn-primary{
+  background-color: rgb(230, 91, 11);
+  border-color:rgb(230, 91, 11);
+}
+.btn-primary:hover{
+  background-color: rgb(255, 51, 0);
+  border-color:rgb(255, 51, 0);
+  border-width: 4px;
+}
+hr{
+  border-color: rgb(255, 51, 0);
+  border-width: 3px;
+  max-width: 65px;
+}
+.buffer{
+  height: 5rem;
+}
